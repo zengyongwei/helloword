@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://192.168.65.166/emas/app/210/5.4.22_TT/app/app.ipa</string>
+					<string>https://192.168.65.166:443/emas/app/210/5.4.22_TT/app/app.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
